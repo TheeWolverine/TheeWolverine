@@ -1,4 +1,4 @@
-[![patient](https://img.shields.io/badge/patients-C4A484)](https://github.com/berrybats/berrybats)
+[![patient](https://img.shields.io/badge/yoai-C4A484)](https://github.com/berrybats/berrybats)
   <img src="https://files.catbox.moe/1b42aj.png" alt="gif" />
 </p>
 
