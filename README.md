@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMothicHauntings%2FMothichauntings&countColor=%23263759" alt="Visitors" />
   <br><br>
-  <img src="https://files.catbox.moe/y0g0ps.gif" alt="gif" />
+  <img src="https://files.catbox.moe/1b42aj.png" alt="gif" />
 </p>
 
 <p align="center">
@@ -10,4 +10,4 @@
   </a>
  
 
-  
+  ![](https://files.catbox.moe/pkhi1t.png)
