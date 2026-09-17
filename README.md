@@ -1,5 +1,5 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=berrybats&color=blue)
-[![patient](https://img.shields.io/badge/wolverine-blue)](https://github.com/berrybats/berrybats) 
+![GitHub Views](https://komarev.com/ghpvc/?username=berrybats&color=gray)
+[![patient](https://img.shields.io/badge/wolverine-gray)](https://github.com/berrybats/berrybats) 
 
 
   <a href="https://github.com/kittinan/spotify-github-profile">
